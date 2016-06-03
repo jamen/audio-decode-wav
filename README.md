@@ -36,8 +36,8 @@ Returns an `Audio` object initialized with the WAV's data.
 
 [jamen]: https://github.com/jamen
 [jamen-image]: https://avatars2.githubusercontent.com/u/6251703?v=3&s=125
-[npm-image]: https://badge.fury.io/js/decode-wav.svg
-[npm-url]: https://npmjs.org/package/decode-wav
+[npm-image]: https://badge.fury.io/js/audio-decode-wav.svg
+[npm-url]: https://npmjs.org/package/audio-decode-wav
 [travis-image]: https://travis-ci.org/audiojs/decode-wav.svg?branch=master
 [travis-url]: https://travis-ci.org/audiojs/decode-wav
 [audio]: https://github.com/audiojs/audio
