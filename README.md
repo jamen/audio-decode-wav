@@ -1,4 +1,4 @@
-# audio decode-wav [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+# audio decode-wav [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] ![Dependencies][david]
 > Decode a WAV buffer into an Audio object.
 
 Turn a WAV-encoded buffer into an [`Audio`][audio] object.
@@ -41,3 +41,4 @@ Returns an `Audio` object initialized with the WAV's data.
 [travis-image]: https://travis-ci.org/audiojs/decode-wav.svg?branch=master
 [travis-url]: https://travis-ci.org/audiojs/decode-wav
 [audio]: https://github.com/audiojs/audio
+[david]: https://david-dm.org/audiojs/decode-wav.svg
