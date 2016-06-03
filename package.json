@@ -1,6 +1,6 @@
 {
   "name": "audio-decode-wav",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Decode a WAV buffer into an Audio object.",
   "repository": "audiojs/decode-wav",
   "license": "MIT",
