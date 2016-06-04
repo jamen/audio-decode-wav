@@ -1,7 +1,6 @@
 var Audio = require('audio');
 
-module.exports = function decode(wav, options) {
-  options = options || {};
+module.exports = function decode(wav) {
   var rate = wav.readInt32LE(24);
   var depth = wav.readInt16LE(34);
   var sample = wav.slice(44);

@@ -2,13 +2,6 @@
 > Decode a WAV buffer into an Audio object.
 
 Turn a WAV-encoded buffer into an [`Audio`][audio] object.
-
-## Installation
-```sh
-$ npm install --save audio-decode-wav
-```
-
-## Usage
 ```js
 var decodeWav = require('audio-decode-wav');
 
@@ -19,6 +12,12 @@ audio.slice(100, 200);
 // => [10, 2, -2, 10, ...]
 ```
 
+## Installation
+```sh
+$ npm install --save audio-decode-wav
+```
+
+## API
 ### `decode(wav)`
 Decode a WAV buffer into an `Audio` object.
  - `wav` (`Buffer`): A WAV-encoded buffer you want to decode.
