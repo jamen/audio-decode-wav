@@ -1,4 +1,4 @@
-# audio decode-wav [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] ![Dependencies][david]
+# Audio decode-wav [![Build Status][travis-image]][travis-url] [![Gitter][gitter-icon]][gitter]
 > Decode a WAV buffer into an Audio object.
 
 Turn a WAV-encoded buffer into an [`Audio`][audio] object.
@@ -35,9 +35,8 @@ Returns an `Audio` object initialized with the WAV's data.
 
 [jamen]: https://github.com/jamen
 [jamen-image]: https://avatars2.githubusercontent.com/u/6251703?v=3&s=125
-[npm-image]: https://badge.fury.io/js/audio-decode-wav.svg
-[npm-url]: https://npmjs.org/package/audio-decode-wav
 [travis-image]: https://travis-ci.org/audiojs/decode-wav.svg?branch=master
 [travis-url]: https://travis-ci.org/audiojs/decode-wav
-[audio]: https://github.com/audiojs/audio
-[david]: https://david-dm.org/audiojs/decode-wav.svg
+[audio]: https://github.com/jamen/node-audio
+[gitter]: https://gitter.im/jamen/node-audio
+[gitter-icon]: https://img.shields.io/gitter/room/jamen/node-audio.svg

@@ -13,8 +13,8 @@
     "test": "eslint index.js test && tape 'test/*.js' | tap-spec"
   },
   "keywords": [
-    "audio",
     "audiojs",
+    "audio",
     "decode",
     "wav"
   ],
@@ -25,6 +25,6 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "audio": "^0.1.0"
+    "audio": "^1.1.0"
   }
 }
